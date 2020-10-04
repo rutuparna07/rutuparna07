@@ -15,7 +15,7 @@ Hello there ! I'm an **Computer Engineering Student**:iphone:,trying to make thi
 ### 💼  Things that I'm currently working on: 
 * Blog System using Laravel 
 * Personal Portfolio 
-* 🔜
+* Web Development
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
