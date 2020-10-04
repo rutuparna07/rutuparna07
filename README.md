@@ -21,7 +21,7 @@ Hello there ! I'm a **Computer Engineering Student** :iphone: ,trying to make th
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/rutuparna07?tab=repositories">
     <img width="500" height="auto" align="right" alt="Rutuparna's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=rutuparna07&show_icons=true&theme=algolia&count_private=true" />
+         src="https://github-readme-stats.rutuparna07.vercel.app/api/top-langs/?username=Neon-K9&layout=compact&theme=buefy" />
    <!-- <img width="30%" height="auto" align="right" alt="github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
