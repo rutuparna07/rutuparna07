@@ -19,7 +19,7 @@ Hello there ! I'm a **Computer Engineering Student** :iphone: ,trying to make th
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  [![Rutuparna's github stats](https://github-readme-stats.vercel.app/api?username=rutuparna07)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/rutuparna07"><img src="https://github-readme-stats.vercel.app/api?username=rutuparna07" /></a>
     
    <!-- <img width="30%" height="auto" align="right" alt="github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
