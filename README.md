@@ -1,5 +1,5 @@
 <!-- Greeting -->
-# <Greetings!/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# <नमस्कार!/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <!--Introduction -->
 Hello there ! I'm a **Computer Engineering Student** :iphone: ,trying to make this world a **better place** :earth_asia: through all the tools gained in my TechStack. I'm passionate about making contribution to **open-source**, developing applications:computer: and tools to help people, and **flourishing Open-Source community**. Do :star2: my repository if you find my project interesting.
