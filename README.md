@@ -1,5 +1,5 @@
 <!-- Greeting -->
-# नमस्कार! :wave::smiley:
+# नमस्कार! :wave:
 
 <!--Introduction -->
 Hello there ! I'm an **Computer Engineering Student**:iphone:,trying to make this world a **better place**:earth_asia: through all the tools gained in my TechStack. I'm passionate about making contribution to **open-source**, developing applications:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting.
