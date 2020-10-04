@@ -2,9 +2,9 @@
 # नमस्कार! :wave::smiley:
 
 <!--Introduction -->
-I'm Rutuparna! I'm **Computer Engineering Student**:iphone:, making this world a **better place**:earth_asia:. I'm passionate about making contribution to **open-source**, developing software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting.
+Hello there ! I'm an **Computer Engineering Student**:iphone:,trying to make this world a **better place**:earth_asia: through all the tools gained in my TechStack. I'm passionate about making contribution to **open-source**, developing applications:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting.
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more !</b> :blush:</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you here !</b> :blush:</em>
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-RutuparnaKudtarkar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rutuparna-kudtarkar/)
